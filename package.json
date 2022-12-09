@@ -30,7 +30,7 @@
     "req-flash": "0.0.3",
     "select2": "^4.0.12",
     "summernote": "^0.8.12",
-    "tinymce": "^5.1.1"
+    "tinymce": "^5.10.7"
   },
   "repository": {}
 }
